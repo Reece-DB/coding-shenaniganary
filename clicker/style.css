@@ -1,0 +1,16 @@
+body{
+    background-color: #814500;
+    color:rgb(63, 25, 0)
+}
+
+#cookie-button{
+    border: dotted 5px rgb(63, 25, 0);
+    border-radius: 50%;
+    background: color #814500;
+    cursor: pointer;
+}
+
+#cookie-button img{
+    width: 200px;
+    height: 200px;
+}
